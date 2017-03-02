@@ -5,4 +5,4 @@ Learning HTML by doing.
 ## Examples
 
 1. [First HTML](first-html)
-1. [Title Levels](title-level)
+1. [Title Level](title-level)
