@@ -4,6 +4,6 @@ Learning HTML by doing.
 
 ## Examples
 
-1. [First HTML](first-html)
-1. [Title Level](title-level)
-1. [Unordered List](unordered-list)
+1. [First HTML](first-html/index.html)
+1. [Title Level](title-level/index.html)
+1. [Unordered List](unordered-list/index.html)
